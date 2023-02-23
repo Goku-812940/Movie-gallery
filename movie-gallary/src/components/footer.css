@@ -1,0 +1,12 @@
+
+footer {
+    background: linear-gradient(to left, #bb0041 0%, #026e99 100%);
+color: #c6c6c6;
+height: 100px;
+}
+
+footer p {
+padding-top: 3%;
+text-align: center;
+}
+

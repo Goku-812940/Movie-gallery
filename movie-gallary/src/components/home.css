@@ -1,0 +1,36 @@
+.picture{
+    height: 600px;
+    background-repeat: no-repeat;
+    width: 100%;
+    margin-top: 50px;
+    filter: brightness(17%);
+}
+.content{
+    margin-top: -401px;
+    width: 100%;
+    position:absolute;
+   text-align: center;
+   justify-content: center;
+   background-color: none;
+   color: white;
+    
+}
+h1{
+    font-size: 60px;
+}
+button{
+    border:2px solid #a5d5e6;
+    border-radius: 6px;
+   background-color: transparent;
+    color: rgb(255, 255, 255);
+    height: 50px;
+    width: 100px;
+}
+button:hover{
+    background: linear-gradient(to left, #fc5f96 10%, #45caff 100%);
+    color: white;
+    border: none;
+  }
+  p{
+    font-size: 20px;
+  }

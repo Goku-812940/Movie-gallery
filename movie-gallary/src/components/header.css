@@ -1,0 +1,27 @@
+.navbar{
+    background: linear-gradient(to left, #fc5f96 0%, #45caff 100%);
+    
+}
+#navbarScroll{
+    margin-left: 65px;
+}
+.colr{
+    color: white;
+}
+.colr:hover{
+    color: white;
+  
+}
+.colrs{
+    color: white;
+
+}
+.colrs:hover{
+    
+    color:#b30743
+  
+}
+
+
+
+
